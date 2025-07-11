@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "857113063928",
+    "project_id": "gestao-facil-9565c",
+    "storage_bucket": "gestao-facil-9565c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857113063928:android:0b9132552ba475ed71260d",
+        "android_client_info": {
+          "package_name": "com.example.gestao_facil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4WxArx20FPpVPvb_Mi-J57bPXO5jmVp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857113063928:android:5baccd696c46ca9871260d",
+        "android_client_info": {
+          "package_name": "com.laura.gestao_facil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4WxArx20FPpVPvb_Mi-J57bPXO5jmVp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
