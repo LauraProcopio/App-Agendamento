@@ -1,16 +1,19 @@
-# gestao_facil
+# 📱 App Gestão Fácil - Agendamento
 
-A new Flutter project.
+Este é um aplicativo de agendamento desenvolvido para facilitar a marcação de horários, focado em performance e experiência do usuário.
 
-## Getting Started
+## 🛠️ Tecnologias Utilizadas
+- **Flutter & Dart:** Desenvolvimento cross-platform (Android/iOS).
+- **Firebase:** Banco de Dados NoSQL para sincronização em tempo real.
+- **Gerenciamento de Estado:** (Insira aqui se usou Provider, Bloc ou GetX).
 
-This project is a starting point for a Flutter application.
+## ✨ Funcionalidades
+- [ ] Cadastro e autenticação de usuários.
+- [ ] Marcação de horários com verificação de disponibilidade.
+- [ ] Integração com banco de dados em tempo real.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Como rodar o projeto
+1. Clone o repositório: `git clone https://github.com/LauraProcopio/App-Agendamento.git`
+2. Instale as dependências: `flutter pub get`
+3. Configure o seu projeto no console do Firebase e baixe o `google-services.json`.
+4. Execute o app: `flutter run`
